@@ -1,0 +1,18 @@
+# === Ignore datasets & scratch data ===
+datasets/
+scratch/
+
+# Large binary files
+*.zip
+*.wav
+*.mp4
+*.json
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# VSCode / IDE
+.vscode/
+.idea/
